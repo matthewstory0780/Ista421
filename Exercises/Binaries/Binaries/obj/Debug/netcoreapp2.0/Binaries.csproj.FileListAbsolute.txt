@@ -1,0 +1,11 @@
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\bin\Debug\netcoreapp2.0\Binaries.deps.json
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\bin\Debug\netcoreapp2.0\Binaries.runtimeconfig.json
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\bin\Debug\netcoreapp2.0\Binaries.runtimeconfig.dev.json
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\bin\Debug\netcoreapp2.0\Binaries.dll
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\bin\Debug\netcoreapp2.0\Binaries.pdb
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\obj\Debug\netcoreapp2.0\Binaries.csprojResolveAssemblyReference.cache
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\obj\Debug\netcoreapp2.0\Binaries.csproj.CoreCompileInputs.cache
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\obj\Debug\netcoreapp2.0\Binaries.AssemblyInfoInputs.cache
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\obj\Debug\netcoreapp2.0\Binaries.AssemblyInfo.cs
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\obj\Debug\netcoreapp2.0\Binaries.dll
+C:\Users\matth\Ista421\Exercises\Binaries\Binaries\obj\Debug\netcoreapp2.0\Binaries.pdb

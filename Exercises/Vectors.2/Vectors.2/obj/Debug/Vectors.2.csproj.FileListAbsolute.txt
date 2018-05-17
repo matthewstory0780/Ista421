@@ -1,0 +1,6 @@
+C:\Users\matth\Ista421\Exercises\Vectors.2\Vectors.2\bin\Debug\Vectors.2.dll
+C:\Users\matth\Ista421\Exercises\Vectors.2\Vectors.2\bin\Debug\Vectors.2.pdb
+C:\Users\matth\Ista421\Exercises\Vectors.2\Vectors.2\obj\Debug\Vectors.2.csprojResolveAssemblyReference.cache
+C:\Users\matth\Ista421\Exercises\Vectors.2\Vectors.2\obj\Debug\Vectors.2.csproj.CoreCompileInputs.cache
+C:\Users\matth\Ista421\Exercises\Vectors.2\Vectors.2\obj\Debug\Vectors.2.dll
+C:\Users\matth\Ista421\Exercises\Vectors.2\Vectors.2\obj\Debug\Vectors.2.pdb
