@@ -1,0 +1,11 @@
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\bin\Debug\netcoreapp2.0\MVCmovie.deps.json
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\bin\Debug\netcoreapp2.0\MVCmovie.runtimeconfig.json
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\bin\Debug\netcoreapp2.0\MVCmovie.runtimeconfig.dev.json
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\bin\Debug\netcoreapp2.0\MVCmovie.dll
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\bin\Debug\netcoreapp2.0\MVCmovie.pdb
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\obj\Debug\netcoreapp2.0\MVCmovie.csprojResolveAssemblyReference.cache
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\obj\Debug\netcoreapp2.0\MVCmovie.csproj.CoreCompileInputs.cache
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\obj\Debug\netcoreapp2.0\MVCmovie.AssemblyInfoInputs.cache
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\obj\Debug\netcoreapp2.0\MVCmovie.AssemblyInfo.cs
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\obj\Debug\netcoreapp2.0\MVCmovie.dll
+C:\Users\matth\Ista421\Labs\MVCmovie\MVCmovie\obj\Debug\netcoreapp2.0\MVCmovie.pdb
