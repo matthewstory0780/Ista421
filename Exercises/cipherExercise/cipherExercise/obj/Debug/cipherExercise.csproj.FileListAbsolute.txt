@@ -1,0 +1,7 @@
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\bin\Debug\cipherExercise.exe.config
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\bin\Debug\cipherExercise.exe
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\bin\Debug\cipherExercise.pdb
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\obj\Debug\cipherExercise.csprojResolveAssemblyReference.cache
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\obj\Debug\cipherExercise.csproj.CoreCompileInputs.cache
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\obj\Debug\cipherExercise.exe
+C:\Users\matth\Ista421\Exercises\cipherExercise\cipherExercise\obj\Debug\cipherExercise.pdb
